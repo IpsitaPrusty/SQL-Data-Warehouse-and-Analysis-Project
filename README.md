@@ -165,11 +165,5 @@ Using the `data_analysis_scripts/` scripts, here are some of the business insigh
 
 ---
 
-## 📬 Stay Connected
-
-Created by **Saishrita Mohapatra**
-
-* [GitHub](https://github.com/Saishrita)
-* [LinkedIn](https://www.linkedin.com/in/saishrita-mohapatra-10a943272/)
 
 
